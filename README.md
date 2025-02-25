@@ -1,4 +1,4 @@
-# Hi, I'm [Mohed Abbas] 👋
+# Hi, I'm Mohed Abbas 👋
 
 I'm a passionate **Full Stack Developer** with a focus on **PHP** and **JavaScript**. With over **2 years of experience**, I've specialized in creating dynamic websites and developing custom plugins for **Learning Management Systems (LMS)** like **Moodle**.
 
