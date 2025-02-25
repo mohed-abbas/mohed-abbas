@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Developer** with a focus on **PHP** and **JavaScri
 ## 🛠️ Technologies & Tools
 
 - **Frontend:** HTML, CSS, JavaScript, ReactJs
-- **Backend:** PHP, NodeJs
+- **Backend & Deployment:** ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&
 - **Database:** MySQL, MongoDB
 - **Other Skills:** Complex SQL Queries, Bug Fixing & Troubleshooting
 
