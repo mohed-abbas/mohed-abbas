@@ -57,7 +57,8 @@ I'm always excited to exchange ideas and collaborate on innovative projects. Fee
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohed-abbas&theme=dark&hide_border=false)  
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohed-abbas&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact) -->
 
 ---
 
